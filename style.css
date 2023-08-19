@@ -1,0 +1,12 @@
+.container{
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:rgb(223, 161, 75);
+}
+#btn{
+    background-color: rgb(235, 208, 182);
+    border-radius: 5px;
+    font-weight: 600;
+}
